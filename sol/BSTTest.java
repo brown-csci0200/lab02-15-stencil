@@ -17,6 +17,10 @@ public class BSTTest {
         // TODO: initialize the test BSTS
     }
 
-
     // TODO: write more tests
+
+    @Test
+    public void testExample() {
+        Assert.assertEquals(2, 1 + 1);
+    }
 }
