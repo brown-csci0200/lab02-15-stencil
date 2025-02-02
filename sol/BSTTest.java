@@ -12,9 +12,9 @@ public class BSTTest {
 
     @Before
     public void testSetup() {
-        t1 = new NodeTree(5, new NodeTree(2, new EmptyTree(),
+        this.t1 = new NodeTree(5, new NodeTree(2, new EmptyTree(),
                 new EmptyTree()), new EmptyTree());
-        // TODO: initialize the test BSTS
+        // TODO: initialize the test BSTs you declared
     }
 
     // TODO: write more tests
